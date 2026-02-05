@@ -1,0 +1,14 @@
+ h5{
+            color=blue;
+            background-color: aqua;
+        }
+        #text{
+            color: beige;
+            background-color: aqua;
+            font-size: 25px;
+
+        }
+        .abc{
+            color: rgb(70, 204, 193);
+            background-color: blueviolet;
+        }
