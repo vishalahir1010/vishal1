@@ -1,0 +1,18 @@
+.*{
+    /* uiversal selector */
+    margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border-width: 2px;
+    border-style: solid;
+    background-color: lightgoldenrodyellow;
+    float: left;
+    /* padding: 18px; */
+    /* padding: 10px 20px; */
+    /* padding:10px 20px 30px 40px ; */
+     padding:10px 20px 30px; 
+     box-sizing: content-box;
